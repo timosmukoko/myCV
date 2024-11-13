@@ -24,24 +24,24 @@
         justify-content: space-between;
     }
 
-    .container-2-skills {
-        flex: 1;
+    /* .container-2-skills {
+        flex: 1; */
         /*background-color: lightgray;*/
-    }
+    /* } */
 
-    .container-2-experience {
+    /* .container-2-experience {
         flex: 3;
-    }
+    } */
 
-    .container-2-education {
+    /* .container-2-education {
         flex: 1;
-    }
+    } */
 
-    .container-3-others {
+    /* .container-3-others {
         /*width: 29%;*/
-        flex-basis: 29%;
+        /* flex-basis: 29%; */
 
-    }
+    /* } */
 
     .no-bullets {
         list-style-type: none;
