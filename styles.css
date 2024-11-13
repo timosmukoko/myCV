@@ -21,7 +21,7 @@
 
     .container-3 {
         display: flex;
-        justify-content: space-between;
+        /* justify-content: space-between; */
     }
 
     /* .container-2-skills {
@@ -99,12 +99,12 @@
         justify-content: space-between;
     }
 
-    .container-2-skills {
+    /* .container-2-skills {
         flex: 1;
         background-color: lightgray;
-    }
+    } */
 
-    .container-2-experience {
+    /* .container-2-experience {
         flex: 3;
     }
 
@@ -114,9 +114,9 @@
 
     .container-3-others {
         /*width: 29%;*/
-        flex-basis: 29%;
+        /* flex-basis: 29%; */
 
-    }
+    /* } */ */
 
     .no-bullets {
         list-style-type: none;
